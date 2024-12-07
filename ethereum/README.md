@@ -1,4 +1,4 @@
-# Etherium
+# Ethereum
 
 ### Topics
 - Staking Protocols

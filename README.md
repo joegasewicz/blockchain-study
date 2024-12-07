@@ -6,7 +6,7 @@ My study notes for all Blockchain related subjects
 - [Cryptography](cryptography/README.md)
 - [Decentralized FileStorage](decentralized_file_storage/README.md)
 - [DeFi](defi/README.md)
-- [Etherium](etherium/README.md)
+- [Ethereum](ethereum/README.md)
 - [Go Langauge](go/README.md)
 - [Kubernetes & Docker](kubernetes_and_docker/README.md)
 - [p2p](p2p/README.md)
